@@ -1,7 +1,7 @@
-### Hello there, I'm Rezky Firmansyah  👋
+### Hello there!, I'm Rezky Firmansyah  👋
 
 #### I'm a programmer and web developer!
-- 🔭 I’m currently working on some of [my projects](https://rezkyfm.com)
+- 🔭 I’m currently working on some of [my projects](https://rezkyfm.com).
 - 🌱 I’m currently learning web dev and machine learning.
 
 #### Languages and Tools:
