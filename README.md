@@ -2,7 +2,6 @@
 
 #### I'm a programmer and web developer!
 - 🔭 I’m currently working on some of [my projects](https://rezkyfm.com).
-- 🧰 I’m currently maintaining [Ark Pixels](https://arkpixels.com).
 - 🌱 I’m currently learning web dev and machine learning.
 
 #### Languages and Tools:
